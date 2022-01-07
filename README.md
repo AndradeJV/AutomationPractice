@@ -2,17 +2,10 @@
 
 
 ### Tecnologias usadas:
-  - Python:
-    - versão: 3.9.6
-  
-  - Selenium:
-
-  - pip:
-    - versão: 21.3.1
-
-  - Chrome:
-    - versão do Chrome: 96.0.4664.110 (Versão oficial) 64 bits
-
+  - Python: versão: 3.9.6
+  - Selenium
+  - pip: versão: 21.3.1
+  - Chrome: versão do Chrome: 96.0.4664.110 (Versão oficial) 64 bits
   - ChromeDriver
 
 
