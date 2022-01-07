@@ -4,3 +4,4 @@
   1.3. Preencher campo email
   1.4. Preencher senha
   1.5. Clicar no botão 'Sign In'
+  1.6. Validar nome de usuário

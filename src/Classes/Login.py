@@ -26,6 +26,15 @@ class Login:
   def preencher_senha(senha):
     driver.find_element_by_css_selector("#passwd").send_keys(senha)
 
-  def resultado_sucesso():
-    print("Teste executado com sucesso")
-    driver.quit()
+  def validar_nome_usuario():
+    with open('fixtures/MassaDeDados/LoginPessoal.json') as f:
+      data = json.load(f)
+
+    nome_usuario = driver.find_element_by_css_selector("nav > div:nth-child(1) > a > span").text
+
+    if nome_usuario != data['nome']:
+      print(f'Usuário {nome_usuario} não coincide com {data["nome"]}')
+      return
+
+    else:
+      print(f'Usuário: {nome_usuario} validado com sucesso')
