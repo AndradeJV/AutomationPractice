@@ -1,0 +1,27 @@
+1. Realizar cadastro de usuário genérico
+  1.1. Acessar página home
+  1.2. Clicar no botão 'Sign In'
+  1.3. Preencher campo email -> 'teste@testedecadastrointegrado.com.br'
+  1.4. Clicar no botão 'Create an account'
+  1.5. Preencher informações de cadastro:
+    1.5.1. Preencher informações pessoais:
+      1.5.1.1. clicar em 'title' -> Mr 
+      1.5.1.2. Preencher campo 'First name' -> 'Teste'
+      1.5.1.3. Preencher campo 'Last name' -> 'Automatizado'
+      1.5.1.4. Preencher campo 'Password' -> 'Teste@123'
+      1.5.1.5. Preencher data de nascimento:
+        1.5.5.5.1. Preencher dia -> 10
+        1.5.5.5.1. Preencher mês -> April
+        1.5.5.5.1. Preencher ano -> 1990
+    1.5.2. Preencher informações de endereço:
+      1.5.2.1. Preencher campo 'First name' -> 'Teste'
+      1.5.2.2. Preencher campo 'Last name' -> 'Automatizado'
+      1.5.2.3. Preencher campo 'Company' -> 'Empresa de teste'
+      1.5.2.4. Preencher campo 'Address' -> 'Rua teste automatizado'
+      1.5.2.5. Preencher campo 'City' -> 'Automação de Teste'
+      1.5.2.6. Preencher campo 'State' -> 'Teste SP'
+      1.5.2.7. Preencher campo 'Zip/Postal Code' -> '00000-000'
+      1.5.2.8. Preencher campo 'Country' -> 'United States'
+      1.5.2.9. Preencher campo 'Home Phone' -> '4747-4747'
+      1.5.2.10. Preencher campo 'Mobile Phone' -> '94747-4747'
+  1.6. Clicar no botão 'Register'
