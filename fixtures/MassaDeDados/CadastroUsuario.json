@@ -1,0 +1,26 @@
+{
+  "informacaoCadastro":{
+    "email": "teste@testedecadastrointegrado.com.br",
+    "sexo": "Mr",
+    "primeiroNome": "Teste",
+    "segundoNome": "Automatizado",
+    "senha": "Teste@123",
+    "dataNascimento": {
+      "dia": "10",
+      "mes": "April",
+      "ano": "1990"
+    }
+  },
+  "endereco":{
+    "primeiroNome": "Teste",
+    "segundoNome": "Automatizado",
+    "empresa": "Empresa de teste",
+    "address": "Rua Teste Automatizado",
+    "cidade": "Automação de Teste",
+    "estado": "Alabama",
+    "codigoPostal": "00000",
+    "pais": "United States",
+    "tel": "4747-4747",
+    "cel": "94747-4747"
+  }
+}
